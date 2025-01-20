@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class MainFinestra2 extends JFrame {
+public class MainFinestra2 extends JFrame  {
     //elenco componenti
     JPanel p1;
     JPanel p2;
