@@ -9,8 +9,8 @@ public class Applicazione {
         nuova.setSize(null);
 
         F2 nuove = new F2(null);
-        nuove.setVisible(true);
-        nuove.setLocation(900,400);
-        nuove.setSize(null);
+        //nuove.setVisible(true);
+        //nuove.setLocation(900,400);
+        //nuove.setSize(null);
     }
 }
