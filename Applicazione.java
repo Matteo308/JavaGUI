@@ -8,9 +8,9 @@ public class Applicazione {
         nuova.setLocation(300,400);
         nuova.setSize(null);
 
-        MainFinestra2 nuove = new MainFinestra2(null);
-        //nuove.setVisible(true);
-        //nuove.setLocation(900,400);
-        //nuove.setSize(null);
+        F2 nuove = new F2(null);
+        nuove.setVisible(true);
+        nuove.setLocation(900,400);
+        nuove.setSize(null);
     }
 }

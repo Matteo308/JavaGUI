@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class MainFinestra2 extends JFrame  {
+public class F2 extends JFrame  {
     //elenco componenti
     JPanel p1;
     JPanel p2;
@@ -13,7 +13,7 @@ public class MainFinestra2 extends JFrame  {
     JTextField tf2;
     JButton b1;
 
-    public MainFinestra2(String titolo){
+    public F2(String titolo){
         super(titolo);
         //instanzia i widget
         p1= new JPanel(new GridLayout(2,0));
