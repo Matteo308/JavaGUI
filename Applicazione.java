@@ -3,14 +3,19 @@ import java.awt.*;
 
 public class Applicazione {
     public static void main(String[] args) {
-        F1 nuova = new F1("Esercitazione");
-        nuova.setVisible(true);
-        nuova.setLocation(300,400);
-        nuova.setSize(null);
+        //F1 nuova = new F1("Esercitazione");
+       // nuova.setVisible(true);
+       // nuova.setLocation(300,400);
+        //nuova.setSize(null);
 
-        F2 nuove = new F2(null);
+        //F2 nuove = new F2(null);
         //nuove.setVisible(true);
         //nuove.setLocation(900,400);
         //nuove.setSize(null);
+
+        F3 f3 = new F3("Esercitazione");
+        f3.setVisible(true);
+        //nuova.setLocation(300,400);
+        //nuova.setSize(null);
     }
 }
